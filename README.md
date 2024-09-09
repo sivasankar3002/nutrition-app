@@ -1,6 +1,9 @@
 ```markdown
 # AI Nutritionist App
 
+#Screenshot
+![Live Demo Of project ](Screenshot 2024-09-09 163028.png)
+
 ## 🍽️ About The Project
 
 The AI Nutritionist App is an innovative solution that leverages Google's Gemini AI model to analyze food images and estimate calorie content. This Streamlit-based web application allows users to upload images of their meals and receive a detailed breakdown of the food items and their estimated calorie counts.
