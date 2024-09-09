@@ -2,7 +2,7 @@
 # AI Nutritionist App
 
 #Screenshot
-![Live Demo Of project ](Screenshot 2024-09-09 163028.png)
+![Live Demo Of project ](https://github.com/sivasankar3002/nutrition-app/blob/f47715bf42a2c086b591ebcb6da1157f2f7fd022/Screenshot%202024-09-09%20163028.png)
 
 ## 🍽️ About The Project
 
